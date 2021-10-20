@@ -81,7 +81,7 @@ Now, make the same `fetch` request to `POST /products` and print to the console
 the following components of the response:
 
 - status code
-- `Location` header
+- `Content-Type` header
 - The URL of the response
 
 If you need help finding these components on the response, take a look at the
@@ -110,7 +110,7 @@ request followed the redirection that the server responded with.
 
 See if you can get the URL which you got redirected to. Check the [MDN
 Documentation on a `Response` object] to see what property you could use to
-print the URL or location of the redirection. Hint: Take a look at the `.url`
+print the URL of the redirection. Hint: Take a look at the `.url`
 property.
 
 Discuss if your hypothesis of what happens to the response of a `fetch` request
