@@ -167,6 +167,6 @@ documentation.
 [server]: https://github.com/appacademy/practice-for-week-08-http-basics-long-practice
 [starter]: https://github.com/appacademy/practice-for-week-08-fetch-long-practice
 [MDN Documentation on a `Request` object]: https://developer.mozilla.org/en-US/docs/Web/API/Request
-[MDN Documentation on a `Response` object]: https://developer.mozilla.org/en-US/docs/Web/API/Request
+[MDN Documentation on a `Response` object]: https://developer.mozilla.org/en-US/docs/Web/API/Response
 [MDN Documentation on `URLSearchParams`]: https://developer.mozilla.org/en-US/docs/Web/API/URLSearchParams
 [http://localhost:5000/products]: http://localhost:5000/products
